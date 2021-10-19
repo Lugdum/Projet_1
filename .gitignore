@@ -1,0 +1,13 @@
+**/jobInfo.properties
+.JETEmitters/
+.Java/
+.metadata/
+/**/code/routines/system/*.*
+/**/target/
+/**/lastGenerated.log
+/sqlPatterns/**
+/**/talend.project
+/temp/
+.project
+.classpath
+talend.project
